@@ -1,0 +1,10 @@
+:root{
+    --skin-color:#fa5b0f;
+}
+body{
+    color: #333;
+}
+body.dark {
+    background-color: #222; 
+    color: #fff;
+}
